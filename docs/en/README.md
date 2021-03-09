@@ -2,9 +2,9 @@
 
 ---
 
-Name of the student
+Artur Quaresma
 
-`Student number`
+`2201115`
 
 #### **Known programming languages:**
 
